@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/99/trunk/src/resources
+END
+task-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/95/trunk/src/resources/task-template.html
+END
+version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/99/trunk/src/resources/version.properties
+END

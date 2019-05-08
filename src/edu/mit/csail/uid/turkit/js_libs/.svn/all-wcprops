@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/99/trunk/src/edu/mit/csail/uid/turkit/js_libs
+END
+turkit_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/turkit_base.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/util.js
+END
+Stats.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/Stats.js
+END
+MTurk.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/99/trunk/src/edu/mit/csail/uid/turkit/js_libs/MTurk.js
+END
+Database.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/Database.js
+END
+S3.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/S3.js
+END
+highlevel_utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/highlevel_utils.js
+END
+TraceManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/js_libs/TraceManager.js
+END

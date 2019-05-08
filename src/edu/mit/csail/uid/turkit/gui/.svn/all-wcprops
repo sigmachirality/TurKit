@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui
+END
+propertiesReader.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/propertiesReader.js
+END
+CodePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/CodePane.java
+END
+PropertiesReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/PropertiesReader.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main.java
+END
+SimpleEventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/SimpleEventManager.java
+END
+default-file-contents.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/default-file-contents.js
+END
+RunControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/RunControls.java
+END
+getOnlineObjects.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/getOnlineObjects.js
+END
+NewWindow$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/NewWindow$1.class
+END
+SimpleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/SimpleEvent.java
+END
+Main$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main$1.class
+END
+Main$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main$2.class
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/default.properties
+END
+Main$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main$3.class
+END
+Main$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main$4.class
+END
+PropertiesPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/PropertiesPane.java
+END
+SimpleEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/SimpleEventListener.java
+END
+Main$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main$5.class
+END
+HITsAndS3Pane.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/HITsAndS3Pane.java
+END
+OutputPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/OutputPane.java
+END
+NewWindow.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/NewWindow.class
+END
+CommandLineInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/CommandLineInterface.java
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/Main.class
+END
+DatabasePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/95/trunk/src/edu/mit/csail/uid/turkit/gui/DatabasePane.java
+END
